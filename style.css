@@ -1,0 +1,52 @@
+.top-box{
+    width: 100%;
+    background-color: aqua;
+    height: 40px;
+    margin:auto;
+}
+.bottom-box{
+    background-color: aqua;
+    height: auto;
+}
+#portrait{
+    width: 75%;
+    height: 75%;
+    border-radius: 50%;
+    max-height: 300px;
+    max-width: 300px;
+}
+#name{
+    font-size: 2.5rem;
+}
+#aboutme{
+    font-size: 2rem;
+}
+.bg-image{
+    top: 40px;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+    color: white;
+    text-indent: 0;
+    margin:auto;
+}
+.color-overlay{
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.2);
+}
+@media (min-width: 768px){
+    .bg-image{
+        height: 300px;
+    }
+    #introtext{
+        text-justify: center;
+        text-align: center;
+    }
+}
+@media (max-width: 358px){
+    .navbar-text{
+        font-size: .8em;
+    }
+}
