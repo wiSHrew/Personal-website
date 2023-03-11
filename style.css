@@ -1,11 +1,11 @@
 .top-box{
     width: 100%;
-    background-color: aqua;
+    background-color: black;
     height: 40px;
     margin:auto;
 }
 .bottom-box{
-    background-color: aqua;
+    background-color: black;
     height: auto;
 }
 #portrait{
