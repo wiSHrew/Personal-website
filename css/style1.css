@@ -1,0 +1,89 @@
+* {
+    font-family: calibri;
+    background-color:  #fcffe7;
+}
+body{
+    margin:0;
+    padding:0;
+}
+.hide {
+    display: none;
+}
+/* 1st layout */
+hr {
+    position: relative;
+    top: 10px;
+    width: 70%;
+    color:black;
+    background-color:black;
+}
+.introduction {
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 0;
+    background-color: #2b3467;
+    padding: 10px;
+    color: #bad7e9;
+}
+
+#email {
+    text-decoration: none;
+    text-align: center;
+    text-transform: lowercase;
+    color: #bad7e9;
+    background-color: #2b3467;
+}
+
+#name {
+    font-size: 350%;
+    font-weight: bolder;
+    padding-bottom: 0;
+}
+.careerObjective{
+    position: relative;
+    top: -3px;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.experience, .education, .skills{
+    margin-left: 15%;
+    margin-right: 15%;
+    line-height: 0px;
+}
+.experience h5, .education h5{
+    margin-left: 3%;
+}
+.experience h3, .education h3{
+    margin-left: 3%;
+    position: relative;
+    line-height: 1em;
+}
+.experience p, .education p{
+    margin-top: 0;
+    margin-left: 3%;
+    line-height: 1em;
+    position: relative;
+    top: -10px
+}
+.skills ul{
+    margin-left: -1%;
+    position: relative;
+    top: 5px;
+    line-height: 1em;
+}
+.boxBottom{
+    position: relative;
+    left: -10px;
+    padding: 10px;
+    background-color: #2b3467;
+    color: #bad7e9;
+    height: 50px;
+    width: 98%;
+    margin-left: 10px;
+}
+.boxBottom h4{
+    background-color: #2b3467;
+    color: #bad7e9;
+    text-decoration: underline;
+}

@@ -1,3 +1,6 @@
+*{
+    font-family: 'Kanit', sans-serif;
+}
 .top-box{
     width: 100%;
     background-color: black;
@@ -5,8 +8,13 @@
     margin:auto;
 }
 .bottom-box{
+    width: 100%;
     background-color: black;
     height: auto;
+    margin:auto;
+}
+.navbar-text{
+    color: white;
 }
 #portrait{
     width: 75%;
@@ -18,17 +26,19 @@
 #name{
     font-size: 2.5rem;
 }
-#aboutme{
+#title{
     font-size: 2rem;
 }
 .bg-image{
+    width: 100%;
     top: 40px;
     background-size: cover;
     height: 500px;
     position: relative;
     color: white;
     text-indent: 0;
-    margin:auto;
+    padding: 0;
+    margin: auto
 }
 .color-overlay{
     position:absolute;
@@ -36,13 +46,31 @@
     height: 100%;
     background-color: rgba(0,0,0,.2);
 }
+hr{
+    width: 70%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    height: 5px;
+    background: black;
+}
+#logo{
+    height: 150px;
+    width: 150px;
+}
+#aboutmetext{
+    max-width: 95%;
+}
+#projectname{
+    font-size: 1.2em;
+}
+.scrollspy{
+    text-decoration: none;
+}
 @media (min-width: 768px){
     .bg-image{
         height: 300px;
-    }
-    #introtext{
-        text-justify: center;
-        text-align: center;
     }
 }
 @media (max-width: 358px){

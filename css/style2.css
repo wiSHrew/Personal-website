@@ -1,0 +1,86 @@
+/*2nd layout*/
+.container{
+    margin-left: 5%;
+    margin-top: 3%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 10px;
+    row-gap: 20%;
+}
+.introduction2 {
+    line-height: 0;
+}
+#image{
+    margin-left: 163px;
+    background-color: #850000;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position:relative;
+    top: 20px;
+}
+img{
+    margin-top: 15%;
+    margin-left: 15%;
+    border-radius: 50%;
+    max-width: 70%;
+    height: auto;
+}
+.careerObjective2{
+    text-align: center;
+    margin: 10px 20%;
+}
+#email2{
+    position: relative;
+    top: -3px;
+    text-decoration: none;
+}
+#name2{
+    position: relative;
+    top: 50px;
+    font-size: 48pt;
+}
+#box2{
+    margin: auto;
+    background-color: #850000;
+    height: 20px;
+    width: 850px;
+}
+.container2{
+    margin-top: 5em;
+    display: grid;
+    margin-left: 5%;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+.education2{
+    line-height: 0;
+    margin-right: 40%;
+}
+.experience2{
+    line-height: 0;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-auto-columns: 400px;
+}
+.skills2{
+    margin: 1px;
+}
+.experience2 p{
+    line-height: 1em;
+}
+.experience2 h5, .education2 h5{
+    margin-top: 10%;
+}
+.experience h3, .education2 h3{
+    line-height: 1em;
+    position: relative;
+    top: -15px;
+}
+#box21, #box22, #box23{
+    margin-bottom: 2%;
+    background-color: #850000;
+    height: 20px;
+    width: 400px;
+}
