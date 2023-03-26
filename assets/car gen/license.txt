@@ -1,0 +1,11 @@
+Model Information:
+* title:	Power Generator thing
+* source:	https://sketchfab.com/3d-models/power-generator-thing-0fd0fdbd068d45ff9fd076ba5bf36a9f
+* author:	tboiston (https://sketchfab.com/tboiston)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Power Generator thing" (https://sketchfab.com/3d-models/power-generator-thing-0fd0fdbd068d45ff9fd076ba5bf36a9f) by tboiston (https://sketchfab.com/tboiston) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

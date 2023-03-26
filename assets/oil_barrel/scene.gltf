@@ -1,0 +1,407 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1088,
+      "max": [
+        281.7392272949219,
+        281.73919677734375,
+        449.99993896484375
+      ],
+      "min": [
+        -281.7392272949219,
+        -281.73919677734375,
+        -449.99993896484375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 13056,
+      "componentType": 5126,
+      "count": 1088,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1088,
+      "max": [
+        1.0,
+        1.0,
+        0.969150185585022,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9691502451896667,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1088,
+      "max": [
+        0.9960473775863647,
+        0.8636860847473145
+      ],
+      "min": [
+        0.004843146074563265,
+        0.003626304678618908
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3828,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 26112,
+      "componentType": 5126,
+      "count": 1088,
+      "max": [
+        281.7392272949219,
+        281.73919677734375,
+        449.99993896484375
+      ],
+      "min": [
+        -281.7392272949219,
+        -281.73919677734375,
+        -449.99993896484375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 39168,
+      "componentType": 5126,
+      "count": 1088,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 17408,
+      "componentType": 5126,
+      "count": 1088,
+      "max": [
+        1.0,
+        1.0,
+        0.969150185585022,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9691502451896667,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 8704,
+      "componentType": 5126,
+      "count": 1088,
+      "max": [
+        0.9960473775863647,
+        0.8636860847473145
+      ],
+      "min": [
+        0.004843146074563265,
+        0.003626304678618908
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 15312,
+      "componentType": 5125,
+      "count": 3828,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "farsmok (https://sketchfab.com/farsmok)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/oil-barrel-ec37cc2a844f4f0ca0873d85a8b3b976",
+      "title": "Oil barrel"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 30624,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 17408,
+      "byteOffset": 30624,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52224,
+      "byteOffset": 48032,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34816,
+      "byteOffset": 100256,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 135072,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/barrel_oil_baseColor.png"
+    },
+    {
+      "uri": "textures/barrel_oil_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/barrel_oil_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "barrel_oil",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "barrel_oil_barrel_oil_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "barrel_oil1_barrel_oil_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        3.828568672208042e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        3.828568672208042e-16,
+        0.0,
+        0.00036602403270080686,
+        0.010879748500883578,
+        0.005831870716065171,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "8902fb506f634f01bd20959e300ecc3a.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        4.537948149144631e-05,
+        1.5543123083010888e-18,
+        -0.0009989698682415162,
+        0.0,
+        -0.0009989698682415162,
+        -1.538769185218078e-16,
+        -4.5379481491446364e-05,
+        0.0,
+        -1.538769185218078e-16,
+        0.0010000000474974513,
+        -5.329070771318019e-18,
+        0.0,
+        0.00022839356097392738,
+        0.4500001072883606,
+        0.00027832030900754035,
+        1.0
+      ],
+      "name": "barrel_oil"
+    },
+    {
+      "mesh": 0,
+      "name": "barrel_oil_barrel_oil_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        -0.00021170528989475254,
+        8.028326320329444e-05,
+        -0.000974030575944572,
+        0.0,
+        1.7051431197909837e-05,
+        0.0009967721367716573,
+        7.845158408007067e-05,
+        0.0,
+        0.0009771848412248253,
+        -5.460909761754272e-18,
+        -0.00021239086862508532,
+        0.0,
+        -0.013207967393100262,
+        0.2816886305809021,
+        -0.5495221018791199,
+        1.0
+      ],
+      "name": "barrel_oil1"
+    },
+    {
+      "mesh": 1,
+      "name": "barrel_oil1_barrel_oil_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

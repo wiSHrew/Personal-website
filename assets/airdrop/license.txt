@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old and dusty multi-crate storage
+* source:	https://sketchfab.com/3d-models/old-and-dusty-multi-crate-storage-f0596d78d9d24107a4401fd6ef1843c4
+* author:	Noel (https://sketchfab.com/ionstudios)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old and dusty multi-crate storage" (https://sketchfab.com/3d-models/old-and-dusty-multi-crate-storage-f0596d78d9d24107a4401fd6ef1843c4) by Noel (https://sketchfab.com/ionstudios) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
